@@ -1,5 +1,5 @@
 # raspPiHVAC
-This was my final project for my Processor Hardware/Software Interfaces course. It is meant to simulate a simple HVAC using a Raspberry Pi. 
+This was my final project for my Processor Hardware/Software Interfaces course. It is meant to simulate a simple HVAC using a Raspberry Pi. <br>
 Some aditional hardware is required:
     -3 push buttons
     -3 LEDs (red, blue, and green)
