@@ -9,6 +9,7 @@ Some aditional hardware is required:
     <li>1 PIR Motion Sensor</li>
     <li>7 Resistors</li>
     </ul>
+You will also need to create an account with the CIMIS website and generate an API key in order to get the humidity information. 
 
 Schematic for hardware:
 ![hvac Schematic](hvac_bb.png)
