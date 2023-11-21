@@ -11,5 +11,7 @@ Some aditional hardware is required:
     </ul>
 You will also need to create an account with the CIMIS website and generate an API key in order to get the humidity information. 
 
+[Video of it in action](https://youtu.be/p4Jb5WZ03NU)
+
 Schematic for hardware:
 ![hvac Schematic](hvac_bb.png)
